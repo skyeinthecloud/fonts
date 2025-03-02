@@ -27,9 +27,17 @@ url: "https://skyeinthecloud.github.io/fonts" # the base hostname & protocol for
 github_username:  skyeinthecloud
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-assets
+
+assets:
+  sources:
+      -_assets/fonts
+
+# sass:
+#     sass_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.

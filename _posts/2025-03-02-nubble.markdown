@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The first font - Nubble"
+date:   2025-03-02 12:22:57 +1000
+categories: fonts
+---
+
+I got a stylus recently for my iPad and drew a font! It's based off my doodling and handwriting. I'm calling it Nubble, named after the [Nubble Lighthouse](https://en.wikipedia.org/wiki/Cape_Neddick_Light) in York, Maine.
