@@ -21,8 +21,8 @@
 title: Skye's Fonts
 email: skyeinthecloud@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Custom fonts by Skye Johnson.
-baseurl: "skyeinthecloud.github.io/fonts" # the subpath of your site, e.g. /blog
+  Custom fonts by me.
+baseurl: "/fonts" # the subpath of your site, e.g. /blog
 url: "https://skyeinthecloud.github.io/fonts" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  skyeinthecloud
 
